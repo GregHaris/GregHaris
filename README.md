@@ -2,17 +2,14 @@
 
 ### Thanks for checking out my profile
 
-<!--
-**GregHaris/GregHaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Greg Haris — a software developer passionate about building full-stack applications, integrating APIs, and exploring AI and emerging technologies.
+Specialized in modern web technologies and user-centered solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Connect with me
+- 📝 Blog: [blog.gregharis.io](https://blog.gregharis.io)  
+- 🌐 Website: [gregharis.io](https://gregharis.io)  
+- 📫 Email: [greg@gregharis.io](mailto:greg@gregharis.io)  
+
+---
