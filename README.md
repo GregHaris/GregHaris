@@ -2,8 +2,7 @@
 
 ### Thanks for checking out my profile
 
-I'm Greg Haris — a software developer passionate about building full-stack applications, integrating APIs, and exploring AI and emerging technologies.  
-Specialized in modern web technologies and user-centered solutions.
+I'm Greg Haris — a software developer passionate about building full-stack applications, integrating APIs, and exploring AI and emerging technologies. Specialized in modern web technologies and user-centered solutions.
 
 ---
 
